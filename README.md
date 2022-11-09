@@ -2,8 +2,7 @@
 
 ### I'm a backend developer!
 - Student of computer science at UFABC
-- Currently working with NestJS and Blockchain technology
-- I'm interested in creating math tools
+- Working with NestJS and Blockchain technology (Web3.js)
 - Currently Living in São Paulo, Brazil
 
 To contact me just send me a message on my e-mail.
