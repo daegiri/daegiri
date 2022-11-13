@@ -1,4 +1,4 @@
-## Welcome, I'm Arthur
+## Hi, I'm Arthur
 
 ### I'm a backend developer!
 - Student of computer science at UFABC
